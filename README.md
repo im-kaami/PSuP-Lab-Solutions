@@ -68,7 +68,7 @@ Each lab’s tasks are implemented in a single C# file using regions.
 ## How to Use
 1. Clone the repo:
    ```bash
-   git clone https://github.com/<username>/PSuP-lab-solutions.git
+   git clone https://github.com/<im-kaami>/PSuP-lab-solutions.git
    cd PSuP-lab-solutions
 
 Navigate to a lab directory (e.g., lab01).
