@@ -5,18 +5,7 @@ This document provides a template structure and guidelines for organizing and su
 
 1. Repository Layout (Single-File with Regions)
    
-PSuP-lab-solutions/              # Root directory
-├── README.md                    # Main overview and instructions
-├── .gitignore                   # Files/directories to ignore
-├── lab01/                       # Directory for Lab 01
-│   ├── Lab01Solutions.cs        # C# file containing Task 1–11 using #region
-│   └── README.md                # Lab-specific notes
-├── lab02/                       # Directory for Lab 02
-│   ├── Lab02Solutions.cs        # C# file containing all tasks with regions
-│   └── README.md                # Lab-specific notes
-└── lab03/                       # Directory for Lab 03
-    ├── Lab03Solutions.cs        # C# file containing all tasks with regions
-    └── README.md                # Lab-specific notes
+![image](https://github.com/user-attachments/assets/ce20319a-5d8d-4b3b-ac7f-3dc6433a4784)
 
 
 Inside each LabXXSolutions.cs file, use regions to separate each task:
