@@ -1,5 +1,5 @@
 # PSuP-Lab-Solutions
-A collection of my C# lab solutions for the Programming and Systems Programming (PSuP) course, organized by lab and task using collapsible #region blocks for clarity and convenience.
+A collection of my C# lab solutions for the Problem Solving using Programming (PSuP) course, organized by lab and task using collapsible #region blocks for clarity and convenience.
 This document provides a template structure and guidelines for organizing and submitting your PSuP lab solutions in a Git repository using C#, with each lab’s tasks contained in a single .cs file using regions.
 
 
