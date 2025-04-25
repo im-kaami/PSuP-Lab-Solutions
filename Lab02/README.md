@@ -2,6 +2,8 @@
 
 This folder contains C# implementations of the **Lab 02** tasks from the Problem Solving using Programming (PSuP) course.
 
+## Using loops, random numbers, and mathematical functions
+
 Each task is implemented using `#region` blocks inside a single file (`Lab02Solutions.cs`) for organized and collapsible navigation. The tasks primarily focus on control flow, loops, randomness, user input handling, and basic console interactions.
 
 ---
